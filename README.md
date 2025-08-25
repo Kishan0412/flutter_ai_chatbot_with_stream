@@ -32,7 +32,7 @@ A Flutter application that provides an intelligent AI chatbot with real-time str
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
+git clone https://github.com/Kishan0412/flutter_ai_chatbot_with_stream.git
 cd ai_chatbot_with_stream
 ```
 
